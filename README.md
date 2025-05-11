@@ -85,12 +85,6 @@ README.md: This file.
 
 Requirements
 SystemVerilog simulator (e.g., VCS, QuestaSim, Incisive).
-Basic understanding of SystemVerilog.
-
-Running the Testbench
-Clone the Repository:
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
 
 Compile and Simulate (example with VCS):
 vcs -sverilog -timescale=1ns/1ns counter.sv counter_tb.sv
