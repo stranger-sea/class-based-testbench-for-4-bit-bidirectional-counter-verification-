@@ -124,4 +124,4 @@ GNU License. See the LICENSE file for details.
 Contributing
 Contributions are welcome. Submit a pull request or open an issue for suggestions or bugs.
 Contact
-For questions, email your-email@example.com or open an issue.
+For questions, email gowdashashank414@gmail.com or open an issue.
